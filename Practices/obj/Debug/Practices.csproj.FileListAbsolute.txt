@@ -1,0 +1,7 @@
+C:\Users\kbialas\Desktop\projekty testowe\patterns and practices\Practices\Practices\bin\Debug\Practices.exe.config
+C:\Users\kbialas\Desktop\projekty testowe\patterns and practices\Practices\Practices\bin\Debug\Practices.exe
+C:\Users\kbialas\Desktop\projekty testowe\patterns and practices\Practices\Practices\bin\Debug\Practices.pdb
+C:\Users\kbialas\Desktop\projekty testowe\patterns and practices\Practices\Practices\obj\Debug\Practices.csprojAssemblyReference.cache
+C:\Users\kbialas\Desktop\projekty testowe\patterns and practices\Practices\Practices\obj\Debug\Practices.csproj.CoreCompileInputs.cache
+C:\Users\kbialas\Desktop\projekty testowe\patterns and practices\Practices\Practices\obj\Debug\Practices.exe
+C:\Users\kbialas\Desktop\projekty testowe\patterns and practices\Practices\Practices\obj\Debug\Practices.pdb
