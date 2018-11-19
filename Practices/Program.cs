@@ -29,6 +29,12 @@ namespace Practices
 
             Console.WriteLine("\n");
             Console.WriteLine(result);
+
+            BinarySerialization binarySerialization = new BinarySerialization();
+            binarySerialization.Serialize();
+            binarySerialization.Deserialize();
+
+
             Console.ReadKey(); 
         }
     }

@@ -43,10 +43,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DelegatesPractise.cs" />
+    <Compile Include="ExampleObject.cs" />
     <Compile Include="ExtensionMethods.cs" />
     <Compile Include="FuncDelegatePractise.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BinarySerialization.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
